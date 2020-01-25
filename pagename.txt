@@ -1,0 +1,59 @@
+Home					Home
+Expense
+	Expenses			Cost	
+	Expense Type		Cost
+	Expences Reports 	ExpenceReport
+Purchase
+	Purchases			Purchase
+	New Purchases 		Purchase
+	Purchase Reports	PurchaseReport
+Sales 					
+	Sales 				Sale
+	New Sales 			sale
+	Sale Report 		SaleReport
+Damage
+	Damages 			Damage
+	Add Damage 			Damage
+	Damage Report 		DamageReport
+Shop Due
+	Shop Dues 			ShopDue
+	Add Shop Due 		ShopDue
+	Due Report 			DueReport
+Stock
+	Stocks 				Stock
+	Stock Report 		StockReport
+Account
+	Accounts 			AccountBalance
+	Bank Account 		BankAccount
+	Cash Account 		CashAccount
+	Mobile Account 		MobileAccount
+	Account Report 		AccountsReport
+Payment
+	Payments 			Payment
+	New Payment 		Payment
+	Payment Report 		PaymentReport
+Leave
+	Leaves 				leave
+	New Leave 			leave
+	Leave Report 		LeaveReport
+Employee Payment
+	Employee Payments			Employee_payment
+	New Employee Payment 		Employee_payment
+	Employee Payments Report 	EmployeePaymentReport
+Reports
+	Daily Status 		DailyStatusReports
+	Balance				BalanceReport
+Configuration
+	Products			Product
+	Companys			Comapny
+	Suppliers			Supplier
+	Areas 				Area
+	Shops				Shop
+	Salesmans			Salesman
+	Users 				User
+	Categorys 			Category
+	Employee Roles 		Role
+	Employees 			Employee
+	User Roles			AccessLavels	
+	Access Permissions	AccessPermission
+Logout		

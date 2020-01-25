@@ -1,0 +1,3 @@
+local: 
+db: 
+a2znews24_amora
